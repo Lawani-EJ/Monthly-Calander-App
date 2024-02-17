@@ -54,4 +54,5 @@ switch  (month) {
                                         break;
             default: 
             alert("INVALID MONTH NUMBER PLEASE TRY AGAIN");
+            alert("OR REFRESH PAGE");
  }
