@@ -2,7 +2,7 @@
 Welcome to the Monthly Calendar App! This JavaScript program allows users to input a month number and receive information about the number of days in that month.
 
 ## 🎥 Screen Recordings
-
+![Browsing Music GIF](./screenshots/screenrecord1.gif)
 
 ## How to Use
 Open the script file calendar.js in your code editor or browser console.
@@ -12,10 +12,7 @@ Based on your input, you'll receive an alert message displaying the number of da
 Follow the instructions on the alerts to proceed.
 
 ## Usage Example
-WELCOME TO YOUR MONTHLY CALENDAR
-ENTER THE MONTH NUMBER
-(Prompt): PLEASE ENTER THE MONTH NUMBER: 2
-(Alert): FEBRUARY HAS 28 DAYS
+![Browsing Music GIF](./screenshots/screenrecord.gif)
 
 ## Supported Months
 January: 31 days
