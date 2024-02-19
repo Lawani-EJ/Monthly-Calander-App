@@ -28,5 +28,3 @@ October: 31 days
 November: 30 days
 December: 31 days
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
